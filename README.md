@@ -2,7 +2,7 @@
 
 Ein kostenloses, benutzerfreundliches Tool zur Erstellung von elektronischen Rechnungen nach ZUGFeRD- und XRechnung-Standard – inklusive PDF/A-3-Export, XML-Erstellung, grafischer Oberfläche (GUI) und Offline-Nutzung.
 
-Kaffeespende: <a href="https://www.paypal.com/donate?hosted_button_id=7EL8K7ELFWHSY">Spende mir einen Kaffee</a>
+Kaffeespende: <a href="https://paypal.me/MarkusBegerow?country.x=DE&locale.x=de_DE">Spende mir einen Kaffee</a>
 
 ## Funktionen
 
