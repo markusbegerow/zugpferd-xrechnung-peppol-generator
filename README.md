@@ -4,6 +4,10 @@ Ein kostenloses, benutzerfreundliches Tool zur Erstellung von elektronischen Rec
 
 Kaffeespende: <a href="https://paypal.me/MarkusBegerow?country.x=DE&locale.x=de_DE">Spende mir einen Kaffee</a>
 
+Die Nutzung dieses Tools erfolgt auf eigene Verantwortung. 
+Es wird keine Haftung für Richtigkeit, Vollständigkeit oder rechtliche Konformität übernommen.
+Keine Rechts- oder Steuerberatung. Keine Gewährleistung.
+
 ## Funktionen
 
 - Erstellung von konformen ZUGFeRD-PDFs mit eingebetteter XML
