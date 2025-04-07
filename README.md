@@ -71,6 +71,13 @@ pyinstaller --onefile --add-data "sRGB.icc;." zugpferd.py
 
 Die fertige Anwendung liegt danach im Verzeichnis `dist/`.
 
+## SHA256-Hash zur Verifikation
+
+SHA256 557B490800650FF552827024A14F6C1D9179AF1DCE5F6AF31A4DD1993748EB99
+
+[Jetzt herunterladen (Windows .exe)](https://github.com/markusbegerow/zugpferd-xrechnung-peppol-generator/releases/download/v1.0.0/zugpferd-xrechnung-peppol-generator.exe)
+
+
 ## Mitwirken
 
 Dieses Projekt ist Open Source. Beiträge sind jederzeit willkommen!
@@ -82,8 +89,6 @@ Dieses Projekt ist Open Source. Beiträge sind jederzeit willkommen!
 
 **Markus Begerow**  
 Website & Links: [https://linktr.ee/markusbegerow](https://linktr.ee/markusbegerow)
-
----
 
 ## Lizenz
 
